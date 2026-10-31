@@ -6,7 +6,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://raw.githubusercontent.com/ShryCreates/ShryCreates/main/github.gif"  />
+<img data-importer="image" align="right" height="250" src="https://raw.githubusercontent.com/ShryCreates/ShryCreates/main/github.gif"  />
 
 ###
 
@@ -92,6 +92,7 @@
 
 ###
 
+<h2 data-importer="text" align="left">🌐 Let's Connect</h2>
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/shreya-kumari-24a249333/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
